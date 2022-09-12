@@ -1,1 +1,5 @@
 Here will be info about armor
+
+Steel Armor - 10
+Golden Armor - 20
+Silver Armor - 40
